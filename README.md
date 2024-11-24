@@ -4,7 +4,7 @@
 Features:
 Author attribution protection
 Process signature validation
-Timestamp verification
+Timestamp verificatio
 Version control
 Secure logging
 This implementation:
